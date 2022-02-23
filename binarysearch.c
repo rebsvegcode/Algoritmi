@@ -1,4 +1,4 @@
-//cercare elemento in array ORDINATO suddividendo sempre a metà
+//cerca elemento in array ORDINATO suddividendo sempre a metà e restituisce indice
 
 #include <stdio.h>
 #include <stdlib.h>
