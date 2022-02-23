@@ -1,3 +1,5 @@
+//cercare elemento in array ORDINATO suddividendo sempre a metà
+
 #include <stdio.h>
 #include <stdlib.h>
 #define dim 10
