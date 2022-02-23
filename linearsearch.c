@@ -1,3 +1,5 @@
+//cerca elemento in vettore (scorrendolo) e, quando lo trova, restituisce l'indice.
+
 #include <stdio.h>
 #include <stdlib.h>
 #define dim 10
