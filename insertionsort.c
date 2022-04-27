@@ -1,4 +1,5 @@
 /* ordinare array inserendo i valori dalla parte disordinata a quella ordinata */
+/*Array ordinato: T(n)=O(n) (caso ottimo). Array ordinato in modo decrescente: T(n)=O(n^2)*/
 
 #include <stdio.h>
 #include <stdlib.h>
