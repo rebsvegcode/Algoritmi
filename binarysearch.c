@@ -1,4 +1,4 @@
-//cerca elemento in array ORDINATO suddividendo sempre a metà e restituisce indice
+//cerca elemento in array ORDINATO suddividendo sempre a metà e restituisce indice Θ(nlog(n))
 
 #include <stdio.h>
 #include <stdlib.h>
